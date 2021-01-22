@@ -1,6 +1,6 @@
 # Minsweeper-Project
 
-Repo consists a brainstorming game Minesweeper Implementation. Three different levels can be played Easy- 9*9, Medium- 16*16 & Hard- 25*25
+Repo consists a brainstorming game Minesweeper Implementation. Three different levels can be played Easy- 9x9, Medium- 16x16 & Hard- 25x25
 
 I am working to implement this into my GitHub intro page and also into this readme.
 
