@@ -299,7 +299,7 @@ bool playminesweeperUtil(char myBoard[][25], char realBoard[][25],
             if (isValid (row+1, col+1) == true)
             {
                  if (isMine (row+1, col+1, realBoard) == false)
-                    playminesweeperUtil(myBoard, realBoard, Mines, row+1, col+1, movesLeft);
+                    playminesweeperUtil(myBoard, realBoard, mines, row+1, col+1, movesLeft);
             }
 
             //----------- 8th Neighbour (South-West) ------------
